@@ -1,0 +1,22 @@
+print("Welcome to Mad-Lib!!!!")
+print("please answer the following questions")
+print("")
+
+person1 = input("enter a person >>> ")
+adjective1 = input("enetr an adjective >>> ")
+place1 = input("enter a place >>> ")
+emotion1 = input("choose an emotion >>> ")
+
+adjective2 = input("enter a adjective >>> ")
+noun1 = input("enter a noun >>> ")
+person2 = input("enter a person >>>>")
+people = int(input("enter a number >>>"))
+adjective3 = input("enter an adjective >>> ")
+noun2 = input("enter a noun >>> ")
+country1 = input("enter a country >>> ")
+verb1 = input("enter a verb >>>")
+pet1 = input("enter an animal >>> ")
+
+print("once upon a time," ,person1, "left a" ,adjective1, place1, "house." "He was feeling" ,emotion1,"about leaving,")
+print("so he went and got a" ,adjective2, pet1, "then"  ,person1, "met up with" ,person2, "who" ,people, "people liked")
+print("and one of them fell into a" ,adjective3, noun2, "after that, they appeared in" ,country1, "and" ,verb1, "the country")
